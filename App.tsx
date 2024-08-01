@@ -27,9 +27,9 @@ const styles = StyleSheet.create({
     backgroundColor: "ghostwhite",
   },
   box: {
-    width: 300,
     height: 100,
     justifyContent: "center",
+    alignSelf: "stretch",
     alignItems: "center",
     backgroundColor: "lightgray",
     borderWidth: 1,
